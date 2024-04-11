@@ -1,0 +1,27 @@
+	ThreeLetter	SingleLetter	Polarity	Charge	Hydropathy	NHydropathy	MW  Essential   Codons
+Alanine	Ala	A	nonpolar	neutral	hydrophobic	1.8	89  No  4
+Arginine	Arg	R	polar	positive	hydrophilic	-4.5	174 Childs  6
+Asparagine	Asn	N	polar	neutral	hydrophilic	-3.5	132 No  2
+Aspartic-acid	Asp	D	polar	negative	hydrophilic	-3.5	133 No  2
+Cysteine	Cys	C	nonpolar	neutral	hydrophobic	2.5	121 Childs  2
+Glutamic-acid	Glu	E	polar	negative	hydrophilic	-3.5	146 No  2
+Glutamine	Gln	Q	polar	neutral	hydrophilic	-3.5	147 No  2
+Glycine	Gly	G	nonpolar	neutral	neutral	-0.4	75  No  4
+Histidine	His	H	polar	positive	hydrophilic	-3.2	155 Childs  2
+Isoleucine	Ile	I	nonpolar	neutral	hydrophobic	4.5	131 Yes 3
+Leucine	Leu	L	nonpolar	neutral	hydrophobic	3.8	131 Yes 6
+Lysine	Lys	K	polar	positive	hydrophilic	-3.9	146 Yes 2
+Methionine	Met	M	nonpolar	neutral	hydrophobic	1.9	149 Yes 1
+Phenylalanine	Phe	F	nonpolar	neutral	hydrophobic	2.8	165 Yes 2
+Proline	Pro	P	nonpolar	neutral	hydrophobic	-1.6	115 No  4
+Serine	Ser	S	polar	neutral	hydrophilic	-0.8	105 No  6
+Threonine	Thr	T	polar	neutral	hydrophilic	-0.7	119 Yes 4
+Tryptophan	Trp	W	nonpolar	neutral	hydrophobic	-0.9	204 Yes 1
+Tyrosine	Tyr	Y	polar	neutral	hydrophobic	-1.3	181 Childs  2
+Valine	Val	V	nonpolar	neutral	hydrophobic	4.2	117 Yes 4
+Asparagine-or-aspartic-acid	Asx	B	polar	NA	hydrophilic	NA	132.5   No  NA
+Glutamine-or-glutamic-acid	Glx	Z	polar	NA	hydrophilic	NA	146.5   No  NA
+Leucine-or-Isoleucine	Xle	J	nonpolar	neutral	hydrophobic	NA	131 Yes NA
+Unspecified-or-unknown-amino-acid	Xaa	X	NA	NA	NA	NA	NA  NA  NA
+
+
